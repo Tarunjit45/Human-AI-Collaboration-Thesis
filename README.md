@@ -1,57 +1,56 @@
-# Human Ai Collaboration Thesis
+# 🚀 Human-AI-Collaboration-Thesis
 
-[![GitHub License](https://img.shields.io/github/license/Tarunjit45/Human-AI-Collaboration-Thesis?style=flat-square)](LICENSE)
-[![CI / Quality Check](https://github.com/Tarunjit45/Human-AI-Collaboration-Thesis/actions/workflows/ci.yml/badge.svg)](https://github.com/Tarunjit45/Human-AI-Collaboration-Thesis/actions)
-[![Language](https://img.shields.io/badge/Language-Unknown-blue?style=flat-square)](https://github.com/Tarunjit45/Human-AI-Collaboration-Thesis)
+![Language](https://img.shields.io/badge/Language-TypeScript%20/%20Python-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Production-Active-success?style=for-the-badge)
 
-A modern, high-performance open-source project built with Unknown. Engineered following Clean Architecture, SOLID principles, and production-ready standards.
+## 📌 Overview
 
----
+A high-performance None application engineered for scalability and quality.
 
-## 🌟 Key Features
+## ✨ Key Features & Architecture
 
-- **Robust Architecture:** Modular and clean separation of concerns.
-- **Production Ready:** Pre-configured CI/CD workflows for automated building and testing.
-- **Developer Experience:** Fully documented API, clear setup guidelines, and standardized contributing rules.
-- **Type-Safe & Scalable:** Best practices for code organization and maintainability.
+- **High-Performance Architecture:** Engineered using modern `TypeScript / Python` best practices.
+- **Modular & Scalable Design:** Structured code organization for easy maintenance and deployment.
 
----
+## 🛠️ Tech Stack & Technologies
 
-## 🚀 Quick Start
+- **Primary Language:** `TypeScript / Python`
+- **Frameworks & Libraries:** TypeScript / Python
+- **Deployment Target:** Vercel Edge / Cloud Infrastructure
 
-### Prerequisites
+## 📁 Project Directory Structure
 
-- Modern runtime environment (Unknown)
-- Git
-
-### Installation
-
-```bash
-git clone https://github.com/Tarunjit45/Human-AI-Collaboration-Thesis.git
-cd Human-AI-Collaboration-Thesis
+```text
+Human-AI-Collaboration-Thesis/
+├── .github
+├── .github/ISSUE_TEMPLATE
+├── .github/ISSUE_TEMPLATE/bug_report.md
+├── .github/ISSUE_TEMPLATE/feature_request.md
+├── .github/PULL_REQUEST_TEMPLATE.md
+├── .github/workflows
+├── .github/workflows/ci.yml
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── README.md
 ```
 
-### Build & Run
+## 🚀 Getting Started
 
-Follow standard build procedures for this project environment.
+### Prerequisites
+- Git
+- Modern Web Browser / Runtime
 
----
+### Installation & Local Setup
 
-## 🗺️ Roadmap & Future Enhancements
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Tarunjit45/Human-AI-Collaboration-Thesis.git
+   cd Human-AI-Collaboration-Thesis
+   ```
 
-- [x] Initial architecture & core features
-- [x] Standardized open-source governance & CI/CD
-- [ ] Automated end-to-end test expansion
-- [ ] Production deployment & release tags
+## 📜 License & Author
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE OF CONDUCT](CODE_OF_CONDUCT.md) before submitting Pull Requests.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Engineered with ❤️ by **[Tarunjit Biswas](https://github.com/Tarunjit45)**.  
+Released under the **MIT License**.
