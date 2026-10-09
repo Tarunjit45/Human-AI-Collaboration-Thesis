@@ -1,56 +1,76 @@
-# 🚀 Human-AI-Collaboration-Thesis
+# 🤝 Human-AI Collaboration: Theoretical Foundations & Architectural Paradigms
 
-![Language](https://img.shields.io/badge/Language-TypeScript%20/%20Python-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Production-Active-success?style=for-the-badge)
+[![Research](https://img.shields.io/badge/Domain-Human--AI%20Interaction-6A1B9A?style=for-the-badge)](README.md)
+[![Status](https://img.shields.io/badge/Status-Academic%20Thesis%20Framework-blue?style=for-the-badge)](README.md)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-## 📌 Overview
+> *"Moving beyond automation toward cognitive symbiosis: how humans and autonomous agents co-create, reason, and govern together."*
 
-A high-performance application engineered by Tarunjit Biswas for quality and scalability.
+This repository houses the conceptual framework, research taxonomy, and architectural blueprints for an academic investigation into **Human-AI Collaboration and Mixed-Initiative Systems**.
 
-## ✨ Key Features & Architecture
+---
 
-- **High-Performance Codebase:** Built using `TypeScript / Python` and modern engineering principles.
-- **Modular & Scalable Design:** Structured directory tree for seamless development and deployment.
+## 🧭 Abstract & Research Overview
 
-## 🛠️ Tech Stack & Dependencies
+The predominant narrative surrounding Artificial Intelligence has oscillated between two extremes: **total manual control** (AI as a passive tool) and **total autonomous delegation** (AI replacing human judgment entirely).
 
-- **Core Language:** `TypeScript / Python`
-- **Libraries & Tools:** TypeScript / Python
-- **Deployment Infrastructure:** Vercel Edge / Cloud Services
+This research posits that the future of high-impact computing lies in **Mixed-Initiative Human-AI Symbiosis**: systems where human cognitive strengths (contextual wisdom, ethical discernment, strategic creativity, domain intuition) are fluidly coupled with machine capabilities (pattern synthesis, massive parallel retrieval, speed, and tireless consistency).
 
-## 📁 Architecture & File Layout
+---
 
-```text
-Human-AI-Collaboration-Thesis/
-├── .github
-├── .github/ISSUE_TEMPLATE
-├── .github/ISSUE_TEMPLATE/bug_report.md
-├── .github/ISSUE_TEMPLATE/feature_request.md
-├── .github/PULL_REQUEST_TEMPLATE.md
-├── .github/workflows
-├── .github/workflows/ci.yml
-├── CODE_OF_CONDUCT.md
-├── CONTRIBUTING.md
-├── LICENSE
-├── README.md
+## 🔬 Core Investigation Pillars
+
+```
++-------------------------------------------------------------+
+|                1. Mixed-Initiative Teaming                  |
+|    Dynamic control handoffs, mutual observability, intent   |
++-------------------------------------------------------------+
+                              |
+                              v
++-------------------------------------------------------------+
+|                2. Cognitive Load Optimization               |
+|    Minimizing human fatigue, selective alert routing        |
++-------------------------------------------------------------+
+                              |
+                              v
++-------------------------------------------------------------+
+|                3. Epistemic Trust & Verification            |
+|    Calibrated trust models, explainable uncertainty bounds  |
++-------------------------------------------------------------+
+                              |
+                              v
++-------------------------------------------------------------+
+|                4. Ethical Governance & Sovereignty          |
+|    Human-in-the-loop oversight, responsibility attribution  |
++-------------------------------------------------------------+
 ```
 
-## 🚀 Quickstart & Installation
+### 1. Mixed-Initiative Interaction Dynamics
+* **Dynamic Control Handoffs:** Defining protocol standards for when an agent should execute autonomously vs. when it must yield execution back to human discretion.
+* **Shared Mental Models:** Establishing bidirectional observability so humans understand agent reasoning trajectories and agents model human operator goals.
 
-### Prerequisites
-- Git
-- Modern Web Browser / Runtime
+### 2. Cognitive Load Management
+* **Alert Fatigue Mitigation:** Architecting selective alerting thresholds that prevent cognitive overload in complex supervision loops.
+* **Context Preservation:** Ensuring human supervisors can re-orient into an ongoing autonomous process in seconds without wading through megabytes of raw logs.
 
-### Setup Instructions
+### 3. Calibrated Epistemic Trust
+* Investigating over-trust (complacency, blind acceptance of hallucinations) vs. under-trust (complete dismissal of valid AI assistance).
+* Developing visual and linguistic markers for **epistemic uncertainty** in model answers.
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Tarunjit45/Human-AI-Collaboration-Thesis.git
-   cd Human-AI-Collaboration-Thesis
-   ```
+### 4. Accountability and Moral Crumple Zones
+* Addressing the "moral crumple zone" phenomenon where human operators absorb legal liability for failure modes originating from opaque algorithmic designs.
 
-## 📜 Author & License
+---
 
-Architected & Developed by **[Tarunjit Biswas](https://github.com/Tarunjit45)**.  
-Distributed under the **MIT License**.
+## 🗺️ Thesis Structure
+
+1. **Chapter I:** The Evolution of Human-Computer Interaction to Human-Agent Teaming.
+2. **Chapter II:** Cognitive Architectures for Cooperative Multi-Agent Frameworks.
+3. **Chapter III:** Empirical Benchmarks for Measuring Collaboration Quality and Task Completion Latency.
+4. **Chapter IV:** Designing Tamper-Evident Flight Data Recorders for Decision Provenance.
+5. **Chapter V:** Ethical Guardrails, Worker Sovereignty, and the Future of Co-Creative Workspaces.
+
+---
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
